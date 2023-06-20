@@ -1,0 +1,53 @@
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.card-container {
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+}
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+.span {
+  color: #ffd569;
+  font-weight: bold;
+}
+img {
+  height: 400px;
+  margin: 40px;
+  width: 100%;
+}
+.mango-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.mango-button {
+  background-color: #007bff;
+  border-radius: 5px;
+  color: white;
+  height: 40px;
+  width: 100px;
+  margin: 40px;
+  border-width: 0px;
+  font-weight: 600;
+}
